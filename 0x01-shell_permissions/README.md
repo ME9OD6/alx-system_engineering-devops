@@ -5,3 +5,4 @@ touch hello- this creates empty file
 chmod u+x gives the file execute permission
 chmod ug+x,o+r gives specific permissions
 chmod ugo+x gives everyone execute permissions
+chmod 700 gives all other users permissions except the owner and group
