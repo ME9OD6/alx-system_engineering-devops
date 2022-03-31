@@ -8,3 +8,4 @@ chmod ugo+x gives everyone execute permissions
 chmod 700 gives all other users permissions except the owner and group
 753 permissions to file - read, write, execute + read execute + write execute
 664 mirrors file name
+Create directory and give permissions mkdir -m 751 dir_name
