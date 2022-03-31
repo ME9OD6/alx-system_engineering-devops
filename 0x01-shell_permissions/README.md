@@ -10,3 +10,4 @@ chmod 700 gives all other users permissions except the owner and group
 664 mirrors file name
 Create directory and give permissions mkdir -m 751 dir_name
 Changing group owner of file chgrp group file
+change owner of file to group owner [name]
