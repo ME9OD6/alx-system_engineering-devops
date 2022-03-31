@@ -1,2 +1,3 @@
 #!/bin/bash
 chmod betty hello
+chmod betty hello- this script changes the owner of the file
